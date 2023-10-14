@@ -1,6 +1,6 @@
 {
-  "name": "simple-react-modal-component",
-  "version": "1.0.0",
+  "name": "@cymard/simple-react-modal-component",
+  "version": "1.0.1",
   "description": "simple react modal component",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,9 @@
     "url": "git+https://github.com/cymard/simple-react-modal-component.git"
   },
   "keywords": [
-    "react"
+    "react",
+    "modal",
+    "component"
   ],
   "author": "https://github.com/cymard",
   "license": "ISC",
