@@ -1,0 +1,27 @@
+{
+  "name": "simple-react-modal-component",
+  "version": "1.0.0",
+  "description": "simple react modal component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cymard/simple-react-modal-component.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "https://github.com/cymard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cymard/simple-react-modal-component/issues"
+  },
+  "homepage": "https://github.com/cymard/simple-react-modal-component#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.69.3"
+  }
+}
