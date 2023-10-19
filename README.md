@@ -2,7 +2,7 @@
 A simple react modal component
 
 ## Prerequisites
-These are the dependencies along with their recommended versions.:  
+These are the dependencies along with their recommended versions:  
 ![Npm](https://img.shields.io/badge/Npm-v9.6.7-blue)
 ![Node](https://img.shields.io/badge/Node-v18.17.0-blue)
 ![React](https://img.shields.io/badge/React-v18.2.0-blue)
